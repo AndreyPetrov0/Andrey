@@ -1,0 +1,4 @@
+bitcoin = int(input())
+dolar = int(input())
+amount_bitcoin = dolar / bitcoin
+print (amount_bitcoin)
